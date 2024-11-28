@@ -1,0 +1,10 @@
+C:\Users\Юрий Острик\source\repos\OstrikTest\OstrikTest\bin\Debug\OstrikTest.exe.config
+C:\Users\Юрий Острик\source\repos\OstrikTest\OstrikTest\bin\Debug\OstrikTest.exe
+C:\Users\Юрий Острик\source\repos\OstrikTest\OstrikTest\bin\Debug\OstrikTest.pdb
+C:\Users\Юрий Острик\source\repos\OstrikTest\OstrikTest\obj\Debug\OstrikTest.csproj.AssemblyReference.cache
+C:\Users\Юрий Острик\source\repos\OstrikTest\OstrikTest\obj\Debug\OstrikTest.csproj.CoreCompileInputs.cache
+C:\Users\Юрий Острик\source\repos\OstrikTest\OstrikTest\obj\Debug\OstrikTest.exe
+C:\Users\Юрий Острик\source\repos\OstrikTest\OstrikTest\obj\Debug\OstrikTest.pdb
+C:\Users\Юрий Острик\source\repos\OstrikTest\OstrikTest\bin\Debug\InspectorLib.dll
+C:\Users\Юрий Острик\source\repos\OstrikTest\OstrikTest\bin\Debug\InspectorLib.pdb
+C:\Users\Юрий Острик\source\repos\OstrikTest\OstrikTest\obj\Debug\OstrikTest.csproj.CopyComplete
