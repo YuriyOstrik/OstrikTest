@@ -30,7 +30,7 @@ namespace OstrikTest
             Console.WriteLine($"Новый главный инспектор: {inspector.GetInspector()}");
 
             // Генерируем и выводим госномер
-            string numberPlate = inspector.GenerateNumber(); 
+            string numberPlate = inspector.GenerateNumber();
             Console.WriteLine($"Сгенерированный госномер: {numberPlate}");
 
             // Выводим список сотрудников
